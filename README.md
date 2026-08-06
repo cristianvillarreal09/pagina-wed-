@@ -27,7 +27,6 @@ El sitio incluye artículos sobre videojuegos populares, una galería de imágen
 
 ## Autor
 
-**Keysi Paola Domínguez**  
-**cristian villarreal**
-**arihanna nicole piña**
+**Keysi Paola Domínguez**  **cristian villarreal** **arihanna nicole piña**
+
 Estudiante de Ingeniería Multimedia.
